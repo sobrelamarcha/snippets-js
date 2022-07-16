@@ -2,15 +2,11 @@
 
 Snippets and other things about modern JS
 
-## Probarlos
+## How to test them
 
-    1. Muy recomendable activar la extensión de JavaScript REPL
+1. It is highly recommended to use the JavaScript REPL extension of the VSCode editor
 
-    2. Con NodeJS:
+2. With NodeJS: `node ./01.closures/closure1.js`
 
-    ```sh
-    node ./01.closures/closure1.js
-    ```
-
-    3. Con la extensión de Code Runner de VSCode
-    4. Con la pestaña de Debug de VSCode (se necesita tener instalado NodeJS)
+3. With Code Runner extension of VSCode
+4. With Debug tab of VSCode (it requires NodeJS)
